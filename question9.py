@@ -35,5 +35,3 @@ math.ceil(pGallons)
 
 #Displaying data to user
 print("you will need to purchase %s gallons of paint to cover %s square feet." % (math.ceil(pGallons), area_of_room))
-
-print(math.ceil(pGallons))
