@@ -1,6 +1,7 @@
 #Program will prompt for current age and year you can retire it should then display amount of years left for retirement
 import datetime
 
+#Initialize Varriables
 currentDt = datetime.datetime.now()
 currentYear = currentDt.year
 
